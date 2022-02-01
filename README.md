@@ -8,4 +8,5 @@ https://github.com/tommykent1210/8192
 ![这里的模式显示还没有汉化](https://i.postimg.cc/1tGgNwjS/1-2-2022-104959.jpg)
 
 这里的模式显示还没有汉化↑
+
 我的技术有限，希望有大佬完善一下
